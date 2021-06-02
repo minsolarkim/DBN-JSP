@@ -23,7 +23,7 @@
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
 				<li><a href="main.jsp">메인</a></li>
-				<li><a href="bss.jsp">게시판</a></li>
+				<li><a href="bbs.jsp">게시판</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<li class="dropdown">
@@ -31,8 +31,8 @@
 					data-toggle="dropdown" role="button" aria-haspopup="true"
 					aria-expanded="false">접속하기<span class="caret"></span></a>
 					<ul class="dropdown-menu">
-						<li class="active"><a href="login.jsp">로그인</a></li>
-						<li><a href="join.jsp">회원가입</a></li>
+						<li><a href="login.jsp">로그인</a></li>
+						<li class="active"><a href="join.jsp">회원가입</a></li>
 <!-- 						active는 하나만 온다!! 지금 실행중-->
 					</ul>
 				</li>
